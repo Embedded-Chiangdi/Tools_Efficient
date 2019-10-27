@@ -32,9 +32,9 @@ This is an [example link1](https://www.google.com/)for google search.
 This is an [example link2](https://translate.google.cn/ "An title for google translate")for google translate.  
 This is an [example link3](https://github.com/Embedded-Chiangdi)for my github home page.
 This is an [example link4][google_homepage] page.   
-This is an [example link5][github_page] page.
-[google_homepage]:https://www.google.com/
-[github_page]:https://github.com/Embedded-Chiangdi
+This is an [example link5][github_page] page.  
+[google_homepage]: https://www.google.com/
+[github_page]: https://github.com/Embedded-Chiangdi
 # 图片 Picture refer
 ![](/Note_Markdown/633309.jpg "Nier Auto")
 # 代码 Code
@@ -64,8 +64,8 @@ ___Bold and italic___
 |**JiangKai**|*95*|*95*|
 # 选框 Select 
 - [x] 需求
-- [] 供应
-- [] 市场
+- [ ] 供应
+- [ ] 市场
 # 对齐 Align
 |left-align|center-align|right-align|
 |:---------|:----------:|----------:|
