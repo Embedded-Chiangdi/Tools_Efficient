@@ -25,7 +25,7 @@ This is a normal text.
 This is an [example link1](https://www.google.com/)for google search.  
 This is an [example link2](https://translate.google.cn/ "An title for google translate")for google translate.
 This is an [example link3][1]for my github home page.
-[1]: https://github.com/Embedded-Chiangdi "My home page"
+[1]: https://github.com/Embedded-Chiangdi
 # 图片 Picture refer
 ![](/Note_Markdown/633309.jpg "Nier Auto")
 # 代码 Code
@@ -39,13 +39,13 @@ int main(int argc ,char*argv[])
 }
 ```
 # 风格 Style
-*Italic1*
-_Italic2_
-**Bold1**
-__Bold2__
-~~Strikethrough~~
-***Bold and italic***
-___Bold and italic___
+*Italic1*   
+_Italic2_   
+**Bold1**   
+__Bold2__   
+~~Strikethrough~~   
+***Bold and italic***   
+___Bold and italic___   
 
 
 
