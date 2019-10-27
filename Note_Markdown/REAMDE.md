@@ -33,8 +33,8 @@ This is an [example link2](https://translate.google.cn/ "An title for google tra
 This is an [example link3](https://github.com/Embedded-Chiangdi)for my github home page.
 This is an [example link4][google_homepage] page.   
 This is an [example link5][github_page] page.  
-[google_homepage]: https://www.google.com/
-[github_page]: https://github.com/Embedded-Chiangdi
+[google_homepage] : https://www.google.com/
+[github_page] : https://github.com/Embedded-Chiangdi
 # 图片 Picture refer
 ![](/Note_Markdown/633309.jpg "Nier Auto")
 # 代码 Code
@@ -59,9 +59,9 @@ ___Bold and italic___
 > Refer 1
 >> Refer 2
 # 表格 Form
-|Title|Value|Total|
-|**JiangDi**|*100*|*100*|
-|**JiangKai**|*95*|*95*|
+| Title | Value | Total |
+| **JiangDi** | *100* | *100* |
+| **JiangKai** | *95* | *95* |
 # 选框 Select 
 - [x] 需求
 - [ ] 供应
