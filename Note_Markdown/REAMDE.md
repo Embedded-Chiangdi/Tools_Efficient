@@ -23,11 +23,11 @@ This is a normal text.
 + Exam
 # 链接 Link
 This is an [example link1](https://www.google.com/)for google search.  
-This is an [example link2](https://translate.google.cn/"An title for google translate")for google translate.
+This is an [example link2](https://translate.google.cn/ "An title for google translate")for google translate.
 This is an [example link3][1]for my github home page.
-[1]: https://github.com/Embedded-Chiangdi"My home page"
+[1]: https://github.com/Embedded-Chiangdi "My home page"
 # 图片 Picture refer
-![nier_auto](/Note_Markdown/633309.jpg"Nier Auto")
+![](/Note_Markdown/633309.jpg "Nier Auto")
 # 代码 Code
 C Programm always start with ,`#include <stdio.h>`,head file.
 ```
