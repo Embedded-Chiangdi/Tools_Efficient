@@ -36,7 +36,7 @@ This is an [example link5][github_page] page.
 [google_homepage] : https://www.google.com
 [github_page] : https://github.com/Embedded-Chiangdi
 # 图片 Picture refer
-![ ](/Note_Markdown/633309.jpg "Nier Auto")
+![](/Note_Markdown/633309.jpg)  
 # 代码 Code
 C Programm always start with ,`#include <stdio.h>`,head file.
 ```
