@@ -8,3 +8,6 @@ Learn one Linux Command Every Day.Since 2019-11-15 . Here I devide linux command
 ## Process
 ## User
 ## service
+## Stream
+[sed](/Tools_Efficient/Linux_Command/sed.md)
+[gawk/awk]
