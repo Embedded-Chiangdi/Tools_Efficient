@@ -4,7 +4,7 @@ Learn one Linux Command Every Day.Since 2019-11-15 . Here I devide linux command
 ## Resource
 ## Disk and Memory
 ## Network
-[iptables](/Tools_Efficient/Linux_Command/iptables.md)
+[iptables](/Linux_Command/iptables.md)
 ## Process
 ## User
 ## service
