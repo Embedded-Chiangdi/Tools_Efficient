@@ -198,3 +198,6 @@ down n
 [Debuging with GDB](https://betterexplained.com/articles/debugging-with-gdb/)  
 [Guide to Faster, Less Frustrating Debugging](http://heather.cs.ucdavis.edu/~matloff/UnixAndC/CLanguage/Debug.html)
 [pthread debugging](https://www.cs.swarthmore.edu/~newhall/unixhelp/gdb_pthreads.php)
+[Debugging C Programs with GDB – Part 1](https://suchprogramming.com/debugging-with-gdb-part-1/)
+[Debugging C Programs with GDB – Part 2](https://suchprogramming.com/debugging-with-gdb-part-2/)
+[Debugging C Programs with GDB – Part 3](https://suchprogramming.com/epoll-in-3-easy-steps/)
