@@ -17,4 +17,4 @@ Learn one Linux Command Every Day.Since 2019-11-15 . Here I devide linux command
 * [gawk/awk](/Linux_Command/awk.md)
 ## Others
 * [curl](/Linux_Command/curl.md)
-* [youtube dl](/Linux_Command/youtube_dl.md)
+* [youtube-dl](/Linux_Command/youtube_dl.md)
