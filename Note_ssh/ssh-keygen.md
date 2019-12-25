@@ -34,6 +34,10 @@ ssh-keygen -t dsa
 ssh-keygen -t ecdsa -b 521
 ssh-keygen -t ed25519
 ```
+## Specifying the File Name
+```
+ssh-keygen -f ~/Identity-WF -t rsa -b 1024
+```
 ## sshd_config file configuration
 ```shell
 vim /etc/ssh/sshd_config
