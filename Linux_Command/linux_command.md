@@ -20,3 +20,4 @@ Learn one Linux Command Every Day.Since 2019-11-15 . Here I devide linux command
 ## Others
 * [curl](/Linux_Command/curl.md)
 * [youtube-dl](/Linux_Command/youtube_dl.md)
+* [shortcuts for bash](/Linux_Command/Keyboard_shortcuts.md)

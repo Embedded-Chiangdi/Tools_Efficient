@@ -27,6 +27,8 @@ The key's randomart image is:
 +----[SHA256]-----+
 
 ```
+* public-key id_rsa.pub
+* private-key id_rsa
 ## Choosing an Algorithm and Specifying Key Sizes
 ```
 ssh-keygen -t rsa -b 4096
