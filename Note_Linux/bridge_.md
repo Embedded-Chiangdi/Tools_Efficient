@@ -9,3 +9,4 @@ The major components of a netwrok switch are a set of network ports, a control p
 * [Linux Bridge - how it works](https://goyalankit.com/blog/linux-bridge)
 * [Anatomy of a Linux bridge](https://wiki.aalto.fi/download/attachments/70789083/linux_bridging_final.pdf)
 * [Linux-網橋原理分析](https://www.itread01.com/p/158724.html)
+* [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
